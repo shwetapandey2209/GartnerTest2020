@@ -1,0 +1,14 @@
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\Feed-Products\capterra.yaml
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\LoadFileUnitTest.dll
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\LoadFileUnitTest.pdb
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\GartnerTestImportProducts.exe
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\YamlDotNet.dll
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\GartnerTestImportProducts.pdb
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\YamlDotNet.xml
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\obj\Debug\LoadFileUnitTest.csprojResolveAssemblyReference.cache
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\obj\Debug\LoadFileUnitTest.dll
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\LoadFileUnitTest\obj\Debug\LoadFileUnitTest.pdb

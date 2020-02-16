@@ -1,0 +1,11 @@
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\bin\Debug\GartnerTestImportProducts.exe.config
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\bin\Debug\GartnerTestImportProducts.exe
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\bin\Debug\GartnerTestImportProducts.pdb
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\bin\Debug\YamlDotNet.dll
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\bin\Debug\YamlDotNet.xml
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\obj\Debug\GartnerTestImportProducts.csprojResolveAssemblyReference.cache
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\obj\Debug\GartnerTestImportProducts.exe
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\obj\Debug\GartnerTestImportProducts.pdb
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\bin\Debug\Feed-Products\capterra.yaml
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\bin\Debug\Newtonsoft.Json.dll
+c:\users\shweta\documents\visual studio 2015\Projects\GartnerTestImportProducts\GartnerTestImportProducts\bin\Debug\Newtonsoft.Json.xml
